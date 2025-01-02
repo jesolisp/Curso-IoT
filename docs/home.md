@@ -1,4 +1,4 @@
-# Contenido del curso
+# Internet de las Cosas (IoT)
 
 
 ## Información del académico
