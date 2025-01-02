@@ -8,4 +8,3 @@ seaborn
 sphinx-proof
 docutils
 sphinxcontrib-bibtex
-sphinx-rtd-theme
